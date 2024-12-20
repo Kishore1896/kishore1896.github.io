@@ -168,7 +168,7 @@ nav ul li a:hover::after {
 }
 
 .setdiv {
-  padding-top: 70px;
+  padding-top: 20px;
 }
 
 .setdiv p {
@@ -1877,7 +1877,7 @@ form textarea {
 
 
   #header {
-      background-image: url(images/pic.jpeg);
+      background-image: url(public/images/pic.jpeg);
 
   }
 
@@ -2663,7 +2663,7 @@ form textarea {
 @media (min-width: 601px) and (max-width: 1024px) {
 
   #header {
-      background-image: url(images/pic.jpeg);
+      background-image: url(public/images/pic.jpeg);
   }
 
   .header-text {
@@ -2678,7 +2678,7 @@ form textarea {
 
   .setdiv {
       background: rgba(42, 43, 42, 0.6);
-      padding-top: 20px;
+      padding-top: 50px;
       padding-bottom: 20px;
   }
 
